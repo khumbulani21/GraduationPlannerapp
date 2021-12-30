@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763193423406",
+    "project_id": "graduation-plan",
+    "storage_bucket": "graduation-plan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763193423406:android:9478d0a55a52a40354d1bf",
+        "android_client_info": {
+          "package_name": "edu.weber.cs.w01331374.graguationplannerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763193423406-jf9r2ajp097l2urqa92tc8bb8p96urko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZyLswVYuOaHhn0EJ2aFDuugfGH1_wec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763193423406-jf9r2ajp097l2urqa92tc8bb8p96urko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

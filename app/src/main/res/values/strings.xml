@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Graguation Planner app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="plan_name">Plan name</string>
+
+    <string name="summer">Summer</string>
+    <string name="fall">fall</string>
+    <string name="spring">Spring</string>
+    <string name="select_year">Select Year</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="course_code">course code</string>
+    <string name="course_name">Course name :</string>
+    <string name="plan_list">Plan list</string>
+    <string name="semester">Semester</string>
+    <string name="year">Year</string>
+    <string name="save_course">Save course</string>
+    <string name="create_and_add_course">Create and add course</string>
+    <string name="select_courses_to_add">Select courses to add</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+</resources>
